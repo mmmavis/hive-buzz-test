@@ -1,0 +1,8 @@
+Wed Feb 15 2017 02:04:14 GMT-0800 (PST)
+
+
+commit d671be12e3c06708f2a34fe25ebc225ce19cb832
+Author: Mavis Ou <mmmavisss@gmail.com>
+Date:   Wed Feb 15 02:02:38 2017 -0800
+
+    initial setup for 2017 app
